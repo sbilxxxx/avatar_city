@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vuemapboxjs-dev-03934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::569928447457:role/amplify-vuemapboxjs-dev-03934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::569928447457:role/amplify-vuemapboxjs-dev-03934-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-vuemapboxjs-dev-03934-deployment",
+      "UnauthRoleName": "amplify-vuemapboxjs-dev-03934-unauthRole",
+      "StackName": "amplify-vuemapboxjs-dev-03934",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:569928447457:stack/amplify-vuemapboxjs-dev-03934/ca93a430-1e16-11ec-8bff-0696cf66fcfd",
+      "AmplifyAppId": "d2noewxsz0jne5"
+    },
+    "categories": {
+      "auth": {
+        "vuemapboxjs1c9c38a7": {}
+      }
+    }
+  }
+}

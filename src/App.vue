@@ -1,7 +1,9 @@
 <template>
-  <div id="app">
+  <amplify-authenticator id="app">
+    <div>Header</div>
+    <amplify-greetings></amplify-greetings>
     <my-map />
-  </div>
+  </amplify-authenticator>
 </template>
 
 <script>
